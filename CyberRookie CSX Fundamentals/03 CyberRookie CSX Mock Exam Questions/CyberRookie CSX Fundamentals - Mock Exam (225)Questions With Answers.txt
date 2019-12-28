@@ -1,0 +1,1751 @@
+CyberRookie CSX Fundamentals - Mock Exam (225)Questions With Answers 
+
+1. The objective of information security is threefold, it involves:
+
+a) Availability, security, assurance
+b) Confidentiality, integrity, availability
+c) Cyber assurance, integrity, hacking
+d) None of the above
+
+Answer: A
+ 
+2. The terms ¡°cybersecurity¡± and ¡°information security¡± are often used interchangeably, but in reality, cybersecurity is part of _____________________.:
+
+a) Network security
+b) Data security
+c) Information security
+d) Enterprise security
+
+Answer: C
+
+3. Controls used to protect assets, reduce __________ and ___________ and/or reduce risk to an acceptable level.
+
+a) Security, protection
+b) Threats, weaknesses
+c) Cost, security
+d) Vulnerabilities, impacts
+
+Answer: D
+ 
+4. The National Institute of Standards and Technology (NIST) identifies five keys functions necessary for protection of digital assets, they are:
+
+a) Identify, security, protect, detect, standards
+b) Respond, identify protect, detect, recover
+c) Password, policies, standards, identity, culture
+d) None of the above
+
+Answer: B
+ 
+5. Nonrepudiation refers to the concept of:
+
+a) Delegating security
+b) Removing all responsibility from cyber professionals
+c) Refusing evidence
+d) Ensuring that a message or other piece of information is genuine
+
+Answer: D
+
+6. Governance is the responsibility of _____________ and _______________
+
+a) Cyber practitioners, network administrators
+b) Government, lawyers
+c) Data owners, system architects
+d) Board of directors, senior management
+
+Answer: D
+ 
+7. An organization¡¯s executive management team is responsible for:
+
+a) Ensuring that needed organizational functions, resources and supporting infrastructures are available and properly utilized to fulfill the directives of the board
+b) Ensuring the IT operations is working in accordance to system specifications
+c) Ensuring the IT departments is well organized and follows a cyber security framework in accordance to the executives and operational standards
+d) None of the above
+ 
+Answer: C
+
+8. Some of the responsibilities of a CISO or CSO include:
+
+a) Developing the security strategy
+b) Ensuring that risk and business impact assessments are conducted
+c) Directing and monitoring security activities
+d) (a),(b),(c)
+e) (a), (b)
+f) None of the above
+
+Answer: D
+ 
+9. In most organizations cyber security is managed by a team, which may include ¨C select the MOST accurate statement:
+
+a) Subject matter experts, cybersecurity practitioners, security architects, administrators, digit forensics, vulnerability researchers and network specialist
+b) Human resource, compliancy consultants, board of directors, CEO
+c) External consultants
+d) Network administrators and risk authority
+
+Answer: A
+
+11. Three common controls used to protect the availability of information are:
+
+a) Redundancy, backups and access controls.
+b) Encryption, file permissions and access controls.
+c) Access controls, logging and digital signatures.
+d) Hashes, logging and backups.
+
+Answer: B
+
+12. Select all that apply. Governance has several goals, including:
+
+a) Providing strategic direction.
+b) Ensuring that objectives are achieved)
+c) Verifying that organizational resources are being used appropriately.
+d) Directing and monitoring security activities.
+e) Ascertaining whether risk is being managed properly
+
+Answer: A and B and C and D
+ 
+13. Choose three. According to the NIST cybersecurity framework, which of the following are considered keyfunctions necessary for the protection of digital assets?
+
+a) Encrypt
+b) Protect
+c) Investigate
+d) Recover
+e) Identify
+
+Answer: B and D and E
+
+14. Which of the following is the best definition for cybersecurity?
+
+a) The process by which an organization manages cybersecurity risk to an acceptable level
+b) The protection of information from unauthorized access or disclosure
+c) The protection of paper documents, digital and intellectual property, and verbal or visual communications
+d) Protecting information assets by addressing threats to information that is processed, stored or transported by 
+e) internetworked information systems
+
+Answer: D
+ 
+15. Which of the following cybersecurity roles is charged with the duty of managing incidents and remediation?
+
+a) Board of directors
+b) Executive committee
+c) Cybersecurity management
+d) Cybersecurity practitioners
+
+Answer: C
+
+16. Which of the following describes the activities required to identify the occurrence of a cybersecurity incident?
+
+a) Data security, awareness/training, access control and processes/procedures
+b) Communications, analysis and mitigation
+c) Security continuous monitoring, detection and evaluating anomalies/incidents
+d) Asset management, risk management and risk assessment
+
+Answer: C
+ 
+17. This key function ensures that organizational objectives and stakeholder needs are aligned with desired outcomes through effective decision making and prioritization.
+
+a) Governance
+b) Risk management
+c) Risk mitigation
+d) Risk assessment
+
+Answer: A
+ 
+18. The primary objective of cybersecurity is:
+
+a) Protection of all company assets
+b) Responding to security incidents
+c) Protecting a company's digital assets
+d) Managing risk through countermeasures and controls
+
+Answer: C
+ 
+19. Which activity ensures that business processes continue after a security incident?
+
+a) Recovery
+b) Detection
+c) Response
+d) Protection
+
+Answer: A
+ 
+20. Which of the following activities is associated with identifying digital assets?
+
+a) Asset management
+b) Awareness and training
+c) Recovery management
+d) Security continuous monitoring
+
+Answer: A
+ 
+21. Which of the following are responsibilities and/or duties of Governance, Risk Management and Compliance (GRC)? Select all that apply.
+
+a) Adherence to required laws and regulations
+b) Implementation of required procedures
+c) Development of internal controls to mitigate risk
+d) Adherence to voluntary contractual requirements.
+
+Answer: A and B and C and D
+ 
+22. In most information security organizations, which role sets the overall strategic direction?
+
+a) Chief Security Officer (CSO) or Chief Information Security Officer (CISO)
+b) Board of Directors
+c) Individual contributors
+d) Chief Information Security Officer (CISO)
+
+Answer: B
+ 
+23. Governance involves all of the following except:
+
+a) Provide strategic direction
+b) Ensure responsible use of company resources
+c) Evaluate whether risk is managed appropriately
+d) Implement contractual obligations
+
+Answer: D
+ 
+24. Which role is generally responsible for the design, implementation, management processes and technical controls within a security organization?
+
+a) Cybersecurity practitioners
+b) Board of Directors
+c) Executive management
+d) Senior information security management
+
+Answer: A
+
+25. Which of the following falls within the scope of risk management? Investment risk and cyber risk
+
+a) Cyber risk, investment risk and financial risk
+b) Cyber risk and financial risk
+c) Only cyber risk
+
+Answer: A
+ 
+26. Which term describes the overall structure designed to protect an organization from disclosure of information to unauthorized users, improper modification of data, and non-access to systems?
+
+a) Cybersecurity
+b) Information security
+c) Information risk management
+ 
+Answer: B
+
+27. All of the following statements are true except:
+
+a) Cybersecurity is a component of information security
+b) Cybersecurity deals with the protection of digital assets
+c) Cybersecurity includes protection of paper documents
+d) Cybersecurity should align with enterprise information security objectives
+
+Answer: C
+ 
+28. Risk management involves which of the following activities? Select all that apply.
+
+a) Recognizing risk
+b) Assessing impact and likelihood of risk
+c) Ensuring information security objectives are achieved
+d) Developing strategies to mitigate risk
+
+Answer: A and B and D
+ 
+29. Cybersecurity involves the protection of the following digital assets:
+
+a) Networks, hardware and paper documents
+b) Digital or intellectual property stored in someone's mind, verbal and visual communications
+c) Information that is processed, stored or transported within internetworked information systems
+d) Only digital intellectual property, verbal or visual communications
+ 
+Answer: C
+
+30. Which terms describe the overall concept of information security? Select all that apply.
+
+a) Linear
+b) Ongoing
+c) Evolving
+d) Systemic
+
+Answer: B and C and D
+ 
+32. COBIT 5 for Risk, ISO31000:2009, IEC 31010:2009, ISO/IEC 27001:2013, are examples of :
+
+a) Rules and regulations
+b) Frameworks and standards
+c) Software to asses risk
+d) Policy templates for organizations
+
+Answer: B
+ 
+34. Risk scenario structure includes the following components:
+
+a) Actor, threat type, policies
+b) Threat type, Asset/Resources, frameworks
+c) Event, logs, story lines, platform
+d) Actor, threat type, event, asset/resources, time
+
+Answer: D
+
+35. A _________________ approach to scenario development is based on understanding business goals and how a risk event could affect the achievement of those goals.
+
+a) Management
+b) Bottom-up
+c) Top-down
+d) Cybersecurity
+
+Answer: C
+ 
+36. The measure of frequency of which an event may occur is known as:
+
+a) Likelihood (also called probability)
+b) Criticality
+c) Time
+d) Chance
+
+Answer: A
+ 
+37. Three different approaches to implementing cybersecurity, include:
+
+a) Ad-hoc, risk-based, compliance-based
+b) Penetration test, hackathon, port scanning
+c) Contracts, regulations, bi-laws
+d) Employee monitoring, compliance, policies
+
+Answer: A
+ 
+38. While risk is measured by potential activity, an ____________ is the actual occurrence of a threat.
+
+a) Scam
+b) Attack
+c) Virus
+d) Revenue loss
+
+Answer: B 
+
+40. An _________________ is made by human threat agent (or adversary), while a _____________________ is usually the result of an error, malfunction or mishap of some sort.
+
+a) Security threat event, emergency event
+b) Adversarial threat event, nonadversarial threat event
+c) Nonadversarial threat event, adversarial
+d) None of the above
+ 
+Answer: B
+
+43. The following are all potential consequences of lack of confidentiality except:
+
+a) Disclosure of information protected by privacy laws
+b) Legal action against the enterprise
+c) Interference with national security
+d) Fraud
+
+Answer: D
+
+44. The degree to which a user or program can create, modify, read, or write to a file is called:
+
+a) Access control
+b) File permission
+c) Redundancy
+d) Certification
+
+Answer: B
+
+45. Which information security component considers the level of sensitivity and legal requirements and is subject to change over time?
+
+a) Integrity
+b) Confidentiality
+c) Availability
+d) Authentication
+
+Answer: B
+ 
+46. Authentication is defined as which of the following? Select all that apply.
+
+a) A system¡¯s ability to identify and differentiate between users
+b) Users within an organization authorized to maintain and protect systems and networks
+c) The act of verifying identity
+d) The act of verifying a user¡¯s eligibility to access computerized information
+
+Answer: C and D
+ 
+47. Establishment and maintenance of user profiles that define the authentication, authorization and access controls for each user is called:
+
+a) Privileged user management
+b) Access rights
+c) Identity management
+d) Authentication
+
+Answer: C
+ 
+48. Which term describes a cryptology tool used to prove message integrity using algorithms to create unique numeric values?
+
+a) Digital signatures
+b) Hashes
+c) Encryption
+d) Access controls
+
+Answer: B
+ 
+49. The following are all potential consequences of lack of integrity except:
+
+a) Inaccuracy
+b) Erroneous decisions
+c) Loss of productive time
+d) Fraud
+
+Answer: C
+ 
+50. Integrity is described as:
+
+a) Protection of information from unauthorized modification
+b) Protection of information from unauthorized access or disclosure
+c) Timely and reliable access to and use of information and systems
+d) All of the above
+
+Answer: B
+ 
+51. Which of the following methods of control can help protect integrity? Select all that apply.
+
+a) Logging
+b) Digital Signatures
+c) Hashes
+d) Encryption
+
+Answer: A and B and C and D
+
+52. Which type of documentation records details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred?
+
+a) Digital certificate
+b) Digital signature
+c) Log
+d) Backup
+
+Answer: C
+ 
+53. A week of severe rainstorms has flooded your company's building. All servers have been ruined) It is estimated that business will be down for 3 weeks. This is an example of:
+
+a) Lack of confidentiality
+b) Lack of availability
+c) Lack of integrity
+d) All of the above
+
+Answer: B
+ 
+54. When two or more controls work in parallel to protect an asset, it is called:
+
+a) Access control
+b) Backup
+c) Redundancy
+d) Logging
+
+Answer: C
+ 
+55. Which of the following are types of backups?
+
+a) Full, incremental and differential
+b) Full, partial and differential
+c) Full, incremental and variable
+d) Full and differential
+
+Answer: A
+
+56. Which of the following describes a differential backup?
+
+a) Only copies files that have changed since last full backup
+b) Copies all files that have changed, regardless of last backup type
+c) Copies every file in the system, regardless of last backup
+d) None of the above
+
+Answer: A
+ 
+57. Potential consequences resulting from lack of availability include which of the following? Select all that apply.
+
+a) Loss of functionality and operational effectiveness
+b) Loss of productive time
+c) Interference with enterprise¡¯s objectives
+d) Erroneous decisions
+
+Answer: A and B and C
+ 
+58. The concept that a message or other piece of information is genuine is called:
+
+a) Integrity
+b) Nonrepudiation
+c) Confidentiality
+d) Authentication
+
+Answer: B
+
+59. Which of the following describe authentication? Select all that apply.
+
+a) The act of verifying identity
+b) Verification of the correctness of a piece of data
+c) A system¡¯s ability to identify and differentiate between users
+d) Designed to protect against fraudulent logon activity
+e) Verifying a user's eligibility to access computerized information
+
+Answer: A and B and D and E
+ 
+60. Nonrepudiation is implemented through which of the following methods? Select all that apply.
+
+a) Backups
+b) Transactional logs
+c) Digital signatures
+d) Encryption
+
+Answer: B and C
+ 
+61. The process of converting plaintext messages, applying a mathematical function to them and producing ciphertext messages is called:
+
+a) Encryption
+b) Two factor authentication
+c) Nonrepudiation
+d) Cryptology
+
+Answer: A
+ 
+62. Which control mechanism defines authentication and authorization protocols for users?
+
+a) Digital signature
+b) Hashes
+c) Access controls
+d) File permissions
+
+Answer: C
+ 
+63. Defense in depth can be defined as:
+
+a) The depth of security in a security system model
+b) Maturity of the organization cybersecurity program
+c) The knowledge of security in the organization
+d) The practice of layering defense to provide added protection
+
+Answer: D
+
+64. The protection of data regardless of its location is a __________ model.
+
+a) Data-centric
+b) Network or system-centric
+c) Well known
+d) None of the above
+
+Answer: A
+ 
+65. SABSA, ZACHMAN, TOGAF are examples of:
+
+a) Frameworks
+b) Standards
+c) Policies
+d) Procedure models
+
+Answer: A
+ 
+66. Encapsulation is the process of ______________ to data as they are transmitted down the OSI stack:
+
+a) Security information
+b) Database code
+c) Addressing information
+d) None of the above
+
+Answer: C
+
+68. A ______________ is defined as a system or combination of systems that enforces a boundary between two or more networks.
+
+a) Software filter
+b) Firewall
+c) Network adaptor
+d) None of the above
+
+Answer: B
+ 
+69. This type of firewall brings in the functionality of an intrusion prevention system (IPS) and will often inspect Secure Socket Layer (SSL) or Secure Shell (SSH) connections
+
+a) First generation
+b) Second generation
+c) Third generation
+d) Next generation
+
+Answer: D
+ 
+70. In this type of attack, the attacker fakes the IP address of either an internal network host or trusted network host:
+
+a) Miniature fragment attack
+b) IP spoofing
+c) Source routing specification
+d) Fake attack
+
+Answer: B
+
+71. This type of filter does not keep the state of ongoing TCP connection sessions:
+
+a) State filtering
+b) Stateful filtering
+c) TCP filtering
+d) Stateless filtering
+
+Answer: D
+ 
+72. This type of firewall implementation has two or more networks interfaces, each of which is connected to a different network
+
+a) Dual-homed firewall
+b) Demilitarized zone or screened-subnet firewall
+c) Screen-host firewall
+d) Multi-firewall
+ 
+Answer: A
+
+73. A common technique for implementing network security is to segment an organization¡¯s network so that each segment can be separately controlled, monitored and protected) A network administrator therefore will:
+
+a) Design a security hot site
+b) Implement various operating system
+c) Purchase more servers
+d) Implement virtual local networks (VLANs)
+
+Answer: D
+ 
+74. ______________ reviews can identify risk-relevant events such as compliance violations, suspicious behaviour, errors, probes or scans and abnormal activity.
+
+a) Log
+b) Personnel
+c) Server
+d) Firewall
+
+Answer: A
+ 
+75. This attack vector refers to network communications coming in:
+
+a) Ingress
+b) Direct
+c) Egress
+d) Perpetrator
+
+Answer: A
+ 
+76. ______________ works in conjunction with routers and firewalls by monitoring network usage anomalies. It protects a company¡¯s IS resources from external as well as internal misuse.
+
+a) Intrusion detection systems (IDS)
+b) Packet sniffers
+c) Wireshark
+d) Intrusion prevention systems (IPS)
+
+Answer: A
+ 
+77. Select all that apply. The Internet perimeter should:
+
+a) detect and block traffic from infected internal end points.
+b) eliminate threats such as email spam, viruses and worms.
+c) format, encrypt and compress data)
+d) control user traffic bound toward the Internet.
+e) monitor internal and external network ports for rogue activity.
+
+Answer: A and B and D and E
+ 
+78. The ______________________ layer of the OSI model ensures that data are transferred reliably in the correct sequence, and the ______________________ layer coordinates and manages user connections.
+
+a) Presentation, data link
+b) Transport, session
+c) Physical, application
+d) Data link, network
+
+Answer: B
+ 
+79. Choose three. The key benefits of the DMZ system are:
+
+a) DMZs are based on logical rather than physical connections.
+b) an intruder must penetrate three separate devices.
+c) private network addresses are not disclosed to the Internet.
+d) excellent performance and scalability as Internet usage grows.
+e) internal systems do not have direct access to the Internet.
+
+Answer: B and D and E
+
+80. Which of the following best states the role of encryption within an overall cybersecurity program?
+
+a) Encryption is the primary means of securing digital assets.
+b) Encryption depends upon shared secrets and is therefore an unreliable means of control.
+c) A program¡¯s encryption elements should be handled by a third-party cryptologist.
+d) Encryption is an essential but incomplete form of access control.
+
+Answer: D
+
+81. The number and types of layers needed for defense in depth are a function of:
+
+a) asset value, criticality, reliability of each control and degree of exposure.
+b) threat agents, governance, compliance and mobile device policy.
+c) network configuration, navigation controls, user interface and VPN traffic)
+d) isolation, segmentation, internal controls and external controls.
+
+Answer: A
+
+82. Which activity is NOT part of the systems development lifecycle (SDLC)?
+
+a) Service delivery
+b) Feasibility study
+c) Requirements study
+d) Requirements definition
+e) Post-implementation review
+
+Answer: A
+ 
+83. The design and coding specifications describing how the system will interact, conditions under which the system will operate and the information criteria that the system should meet are called:
+
+a) Technical requirements
+b) Functional requirements
+c) Business requirements
+d) Control requirements
+
+Answer: A
+
+84. The testing phase of the systems development lifecycle (SDLC) includes all of the following except:
+
+a) Verification and validation that functions perform as designed
+b) Confirmation that test units operate without adverse effect on other system components
+c) Development methodologies and organizational requirements for testing
+d) Deliverables for the next phase in the implementation process
+
+Answer: D
+ 
+85. The system development lifecycle (SDLC) process guides all phases of software development including which of the following? Select all that apply.
+
+a) Acquisition
+b) Retirement
+c) Governance
+d) Cost
+
+Answer: A and B
+ 
+86. The process by which changes to processes, systems, software, applications, platforms and configuration are introduced in an orderly, controlled manner is called:
+
+a) Change management
+b) System development lifecycle (SDLC)
+c) Risk management
+d) Compliance
+
+Answer: B
+ 
+87. The practice of layering defenses to provide added protection is called:
+
+a) Defense in depth
+b) Risk mitigation
+c) Edge protection
+d) Network foundation protection
+
+Answer: A
+ 
+88. The type of defense in which a series of nested layers must be bypassed in order to execute an attack is called:
+
+a) Concentric rings
+b) Overlapping redundancy
+c) Segregation
+d) Compartmentalization
+
+Answer: A
+ 
+89. Two or more controls that work in parallel to protect an asset is called:
+
+a) Overlapping redundancy
+b) Concentric rings
+c) Segregation
+d) Compartmentalization
+
+Answer: A
+ 
+90. The type of defense in which two or more processes, controls or individuals are required for access is called:
+
+a) Overlapping redundancy
+b) Concentric rings
+c) Segregation/Compartmentalization
+d) Horizontal defense
+
+Answer: C
+ 
+91. Ingress and egress are types of:
+
+a) Horizontal defense
+b) Attack vector
+c) Vertical defense
+d) Data
+
+Answer: B
+ 
+92. A virtual boundary which protects an organization from threats that come from the outside world is called a(n):
+
+a) Security perimeter
+b) Defense in depth
+c) Virtual private network
+d) Content filter
+
+Answer: A
+ 
+93. A system or combination of systems that enforces a boundary between two or more networks is called a(n):
+
+a) Firewall
+b) Application-level gateway
+c) Circuit-level gateway
+d) Demilitarized zone
+
+Answer: A
+ 
+94. small, isolated network for an organization¡¯s public servers, bastion host information servers and modem pools is called a(n):
+
+a) Demilitarized zone (DMZ)
+b) Virtual local area network (VLAN)
+c) Dual-homed firewall
+d) Screened-host firewall
+
+Answer: A
+ 
+95. The process of eliminating as many security risks as possible by removing all nonessential components is called:
+
+a) System hardening
+b) Stateless filtering
+c) Stateful inspection
+d) Isolation
+
+Answer: A
+ 
+96. Network segmentation does which one of the following?
+
+a) Allows an organization¡¯s network to be controlled, monitored and protected in separate zones
+b) Blocks some or all of the traffic trying to pass between the networks
+c) Protects the entire network by limiting break-ins to firewalls
+d) Maps the source of an IP address of an incoming packet with the list of destination IP addresses
+
+Answer: A
+ 
+97. Advantages of application firewalls include which of the following? Select all that apply.
+
+a) Provide security for commonly used protocols
+b) Hide the network from untrusted networks
+c) Easy scalability as internet usage grows
+d) Protect the network by limiting firewall break-ins
+
+Answer: A and B and D
+ 
+98. A stateful inspection firewall is also known as:
+
+a) Dynamic packet filtering
+b) Screened-host firewall
+c) Dual-homed firewall
+d) Demilitarized zone (DMZ)
+
+Answer: A
+ 
+99. A key limitation of anti-malware is that it:
+
+a) Is generally not effective in identifying malicious code that has yet to be identified
+b) Is complex to administer
+c) Is not scalable as internet usage grows
+d) Is generally not effective for known threats
+
+Answer: A
+ 
+100. The art of designing, analyzing and attacking cryptographic schemes is called:
+
+a) Encryption
+b) Cryptography
+c) Symmetric Key Encryption
+d) Quantum Cryptography
+
+Answer: B
+ 
+101. Symmetric and asymmetric are types of:
+
+a) Cryptographic systems
+b) Nonrepudiation
+c) Public key infrastructure
+d) Encryption standards
+ 
+Answer: A
+
+102. All of the following are encryption techniques except:
+
+a) Elliptical curve cryptography
+b) Quantum cryptography
+c) Advanced encryption standard
+d) Key length
+
+Answer: D
+ 
+103. Which of the following are considered applied cryptographic techniques? Select all that apply.
+
+a) Digital signature
+b) Virtual private network (VPN)
+c) Digital certificate
+d) Registration authority
+
+Answer: A and B and C and D
+ 
+104. An authority in a network that verifies user requests for a digital certificate and tells the certificate authority (CA) to issue it is called:
+
+a) Registration authority
+b) Certificate authority
+c) Digital certificate
+d) Digital signature
+
+Answer: A
+ 
+105. Keys and hashes are used to:
+
+a) Transform a string of characters into a shorter or fixed-length value
+b) Decrypt parts of a ciphertext message
+c) Compute the digital signature inside a certificate
+d) Initiating the key recovery process
+
+Answer: A
+ 
+107. These two inputs are used to collect data on assets, threats and vulnerabilities together and analyze them together to determine risk, ____________ and ___________.
+
+a) Likelihoods, impacts
+b) Logs, access-lists
+c) Likes, dislikes
+d) Employee experience, industry standards
+
+Answer: A
+ 
+108. Remediation means to:
+
+a) Provide security solutions
+b) Work with management
+c) To protect digital asset
+d) Mitigate or eliminate the vulnerability (such as patching)
+
+Answer: D
+
+110. Repeaters, hubs, Layer 2 switches, routers, Layer 3 & 4 switches are on premises ____________ components in an organization.
+
+a) LAN
+b) WAN
+c) MPLS
+d) NAC
+
+Answer: A
+ 
+111. The aim of a NAC device is to:
+
+a) Scan for unused ports
+b) Monitor network traffic
+c) Report security breaches
+d) Control the access to a network using policies that describe how devices can secure access to network nodes when they first try to access the network.
+
+Answer: D
+ 
+112. Allowable ports numbers range from:
+
+a) 0 to 65535
+b) 0 to 1024
+c) 0 to 2058
+d) 0 to 85535
+
+Answer: A
+ 
+113. Ports reserved for certain privileged services:
+
+a) 0 to 1023
+b) 200 to 400
+c) 0 to 10
+d) 500 to 1000
+
+Answer: A
+ 
+114. This is an example of a Virtual Private Network (VPN):
+
+a) Stealth network
+b) Layer 10 tunneling
+c) B2B
+d) Point-to-point tunneling protocol (PPTP)
+
+Answer: D
+ 
+115. System hardening is the process of implementing:
+
+a) A solid network
+b) Cable assurance and connectivity
+c) Ensuring the servers are well protected with a hard case
+d) Security controls on a computer system
+
+Answer: D
+
+118. This technology allows multiple OSs (guests), to coexist on the same physical server (host), in isolation of one another:
+
+a) Cohabit servers technology
+b) Virtualization technology
+c) Server integration technology
+d) None of the above
+
+Answer: B
+ 
+121. Why is it important for an organization to classify its data
+a) To keep it neat and tidy meeting LEED building certification and standards
+b) It will quicken inspection from the CRA by allowing appropriate classification for indexing
+c) Make the documentation managers happy
+d) Allow the organization the capability to understand the sensitivity of information and classify data based on sensitivity and the impact of release or loss.
+ 
+Answer: D
+
+122. When classifying data, the following should be considered:
+
+a) Confidentiality, privacy, access and authentication data retention, auditability, integrity
+b) Confidentiality, process, access and authentication data retention, auditability, integrity
+c) Classification, process, access and authentication data retention, auditability, integrity
+d) The amount of data
+
+Answer: D
+
+123. After data classification has been assigned, security controls can be established such as:
+
+a) Not needed
+b) Backup, replication
+c) Deduplication, offsite storage
+d) Encryption, authentication and logging
+
+Answer: D
+
+124. Another important consideration for data security is to define:
+
+a) The storage capacity
+b) The database replication
+c) The data owner
+d) Cloud security
+ 
+Answer: C
+
+125. Put the steps of the penetration testing phase into the correct order.
+
+a) Attack, Planning, Reporting, Discovey
+b) Discovery, Reporting, Attack, Planning
+c) Reporting, Attack, Discovery, Planning
+d) Planning, Discovery, Attack, Reporting
+ 
+Answer: D
+
+126. System hardening should implement the principle of ____________________ or ____________________ .
+
+a) Governance, compliance
+b) Least privilege, access control
+c) Stateful inspection, remote access
+d) Vulnerability assessment, risk mitigation
+
+Answer: B
+ 
+127. Select all that apply. Which of the following are considered functional areas of network management as defined by ISO?
+
+a) Accounting management
+b) Fault management
+c) Firewall management
+d) Performance management
+e) Security management
+
+Answer: A and B and C and D and E 
+ 
+128. Virtualization involves:
+
+a) the creation of a layer between physical and logical access controls.
+b) multiple guests coexisting on the same server in isolation of one another.
+c) simultaneous use of kernel mode and user mode.
+d) DNS interrogation, WHOIS queries and network sniffing.
+
+Answer: B
+ 
+129. Vulnerability management begins with an understanding of cybersecurity assets and their locations, which can be accomplished by:
+
+a) vulnerability scanning.
+b) penetration testing.
+c) maintaining an asset inventory.
+d) using command line tools.
+
+Answer: C
+ 
+130. What is the main difference between a risk and a threat?
+
+a) Risk involves the probability of an event and its consequence, a threat is anything that can cause harm
+b) Risk involves determining weakness in design, a threat is anything that can cause harm
+c) Risk is the combined action of a threat source with a threat event, a threat is the result of malicious activity
+d) Risk is determined first, then potential threats are assessed
+ 
+Answer: A
+
+131. Risk assessment involves the analysis of:
+
+a) Assets, threats and vulnerabilities
+b) Risk tolerance, amount of data and scope of environment
+c) Assets, threats and response
+d) Risk response options, parameters and prioritization
+ 
+Answer: A
+
+132. People, information, infrastructure, finances and reputation are all considered:
+
+a) Assets
+b) Risks
+c) Vulnerabilities
+d) Threats
+
+Answer: A
+ 
+133. A weakness in the design, implementation, operation or internal control of a process that could expose the system to adverse threats is called a(n):
+
+a) Asset
+b) Vulnerability
+c) Threat
+d) Risk
+
+Answer: B
+ 
+134. All of the following are approaches to cybersecurity except:
+
+a) Compliance-based
+b) Ad hoc
+c) Risk-based
+d) Threat-based
+ 
+Answer: D
+ 
+135. After assets, threats and vulnerabilities have been assessed, risk can be rated based on:
+
+a) Likelihood and impact
+b) Threat events and threat source
+c) Threat source and likelihood
+d) Risk tolerance
+ 
+Answer: A
+
+136. The actual occurrence of a threat is called a(n):
+
+a) Attack
+b) Incident
+c) Target
+d) Event
+
+Answer: A
+ 
+137. Attack attributes include which of the following? Select all that apply.
+
+a) Attack vector
+b) Payload
+c) Exploit
+d) Vulnerability
+e) Asset
+
+Answer: A and B and C and D and E 
+ 
+138. Scanning the network perimeter, using open source discovery of organizational information and running malware to identify potential targets are activities that may be performed during which phase of the attack process?
+
+a) Creating attack tools
+b) Performing reconnaissance
+c) Exploiting and compromising
+d) Conducting an attack
+
+Answer: B
+ 
+139. Problems caused by aging equipment, natural disasters and mishandling of information by authorized users are all examples of:
+
+a) Nonadversarial threats
+b) Attack types
+c) Risk attributes
+d) Adversarial threats
+
+Answer: A
+ 
+140. The path or route used to gain access to a target (asset) is called a(n):
+
+a) Attack vector
+b) Exploit
+c) Attack mechanism
+d) Payload
+
+Answer: A
+ 
+145. Any method that is used to deliver an exploit is called a(n):
+
+a) Attack mechanism
+b) Attack vector
+c) Payload
+d) Vulnerability
+
+Answer: A
+ 
+146. All of the following are considered hostile threat agents except:
+a) Script kiddies
+b) Online social hackers
+c) Hacktivists
+d) Ethical hackers
+
+Answer: D
+ 
+147. Software designed to gain access to targeted computer systems, steal information or disrupt computer operations is called:
+
+a) Malware
+b) Botnet
+c) Social engineering
+d) Zero-day exploit
+
+Answer: A
+ 
+148. A piece of code that can replicate itself and spread from one computer to another is called a(n):
+
+a) Virus
+b) Trojan horse
+c) Exploit
+d) Rootkit
+
+Answer: A
+ 
+149. Spyware is a type of malware which:
+
+a) Gathers information about a person or organization without the person¡¯s or the organization¡¯s knowledge
+b) Locks or encrypts data or functions and demands a payment to unlock them
+c) Secretly records user keystrokes and, in some cases, screen content
+d) Hides the existence of other malware by modifying the underlying operating system
+
+Answer: A
+ 
+150. An attack made by trying all possible combinations of passwords or encryption keys until the correct one is found is called a(n):
+
+a) Brute force attack
+b) Botnet
+c) SQL injection
+d) Zero-day exploit
+
+Answer: A
+ 
+151. This variant of computer virus is a piece of self-replicating code designed to spread itself across computer networks:
+
+a) Network worm
+b) Trojan horse
+c) Malware
+d) Backdoor
+
+Answer: A
+ 
+152. An __________ is any change, error or interruption within an IT infrastructure, such as a crash, disk error or a user forgetting their password)
+
+a) Incident
+b) Event
+c) None of the above
+
+Answer: B
+ 
+153. A __________ violation or imminent threat of violation of computer polices, acceptable use policies or standard practices.
+
+a) Incident
+b) Event
+c) None of the above
+
+Answer: A
+ 
+154. A cybersecurity incident is an adverse event that negatively impacts the:
+
+a) Accessibility, availability, agility
+b) Moral, profit, business department
+c) Confidentiality, integrity, availability
+d) None of the above
+
+Answer: C
+ 
+155. Why do we need incident response?
+
+a) Adequate incident response planning and implementation allows organization to respond to an incident in a systematic manner that is more effective
+b) Guarantees security for the organization
+c) Doesn¡¯t do anything
+d) Responds to management concerns
+
+Answer: A
+ 
+156. Elements of an Incident Response Plan (IRP) include:
+
+a) Preparation, indemnity, containment, eradication, recovery, lessons learned
+b) Preparation, identification, containment, eradication, restoration, lessons learned
+c) Preparation, identification, consent, eradication, recovery, lessons learned
+d) Preparation, identification, containment, eradication, recovery, lessons learned
+
+Answer: D
+ 
+157. RTO, BCP, SDO are part of what element of the Incident Response Plan (IRP):
+
+a) Identification
+b) Containment
+c) Recovery
+d) Lessons learned
+
+Answer: C
+ 
+158. This element of the Incident Response Plan (IRP) deals with the next step after the root cause of the incident has be determined:
+
+a) Identification
+b) Eradication
+c) Recovery
+d) Lessons learned
+
+Answer: A
+ 
+159. This element in the Incident Response Plan (IRP) aims to verify if an incident has happened and to find out more details about an incident:
+
+a) Identification
+b) Containment
+c) Recovery
+d) Lessons learned
+
+Answer: A
+ 
+160. When trying to preserve evidence, why is rebooting a system a bad idea?
+
+a) Wrong, it is a good idea, it speeds things up
+b) Rebooting the system or accessing files could result in evidence being lost
+c) The boot up sequence can delay the investigation
+d) The administrator might not be around if something goes wrong
+
+Answer: B
+
+161. For evidence to be admissible in a court of law, the chain of custody needs this information?
+
+a) All the employees name and email addresses to contact
+b) The serial numbers of all servers involved
+c) The names of all IT security managers
+d) Who had access to the evidence (chronological manner)
+
+Answer: D
+ 
+163. Imaging is a process in forensics, it involves:
+a) Imaging involves taking an image of the servers for evidence
+b) Imaging is imitating the processing server through a software image
+c) Imaging process makes a copy of the serial numbers of the entire server¡¯s hardware
+d) Is a process that allows one to obtain a bit-for-bit copy of data to avoid damage of original data or information when multiple analyses may be preformed)
+
+Answer: D
+ 
+164. Digital forensic tools can be sorted into four categories:
+
+a) Computer, Memory, Mobile devices, Network
+b) Computer, Servers, Software, Hardware
+c) Memory, Hard drives, CDs, USB drives
+d) Finger print powder, video evidence, witness statements
+
+Answer: A
+ 
+165. The purpose of anti-forensic tools to:
+
+a) Harden evidence in a forensic operation
+b) To make it easier to find evidence information
+c) To provide a better lab environment to investigate evidence
+d) Make it difficult or impossible for investigators retrieve information
+
+Answer: D
+ 
+166. The purpose of a Business Continuity Plan (BCP)and Disaster Recovery Plan (DRP) is to:
+
+a) Improve profits in times of business crisis
+b) Continue to operate in times of problems in the organization
+c) Continue to offer critical services in the event of disruption and to survive a disastrous interruption to activities
+d) Continue to offer revenue to shareholders in the event of disruption and to survive a disastrous interruption to activities
+
+Answer: C
+ 
+167. Arrange the steps of the incident response process into the correct order.
+
+a) Mitigation and recovery, Investigation, Postincident analysis, Preparation, Detection and analysis
+b) Investigation, Detection and analysis, Postincident analysis, Preparation, Mitigation and recovery
+c) Postincident analysis, Postincident analysis, Detection and analysis, Mitigation and recovery
+d) Preparation, Detection and analysis, Investigation, Mitigation and recovery, Postincident analysis
+E. Detection and analysis, Postincident analysis, Preparation, Mitigation and recovery, Preparation
+
+Answer: D
+ 
+168. Which element of an incident response plan involves obtaining and preserving evidence?
+
+a) Preparation
+b) Identification
+c) Containment
+d) Eradication
+
+Answer: C
+ 
+169. Select three. The chain of custody contains information regarding:
+
+a) disaster recovery objectives, resources and personnel.
+b) who had access to the evidence, in chronological order.
+c) labor, union and privacy regulations.
+d) proof that the analysis is based on copies identical to the original evidence.
+e) the procedures followed in working with the evidence.
+
+Answer: B and D and E
+ 
+170. NIST defines a(n) ________________ as a ¡°violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices.¡±
+
+a) Disaster
+b) Event
+c) Threat
+d) Incident
+
+Answer: D
+
+171. Select all that apply. A business impact analysis (BIA) should identify:
+
+a) the circumstances under which a disaster should be declared)
+b) the estimated probability of the identified threats actually occurring.
+c) the efficiency and effectiveness of existing risk mitigation controls.
+d) a list of potential vulnerabilities, dangers and/or threats.
+e) which types of data backups (full, incremental and differential) will be used)
+
+Answer: C and D and E
+
+172. A major incident which has grown out of control and increased in severity is called a(n):
+
+a) Crisis
+b) Event
+c) Incident
+d) Emergency
+
+Answer: A
+ 
+173. What is a key difference between an incident and an event?
+
+a) An incident implies a violation or imminent threat, an event does not
+b) An event implies a violation or imminent threat, an incident does not
+c) Events negatively impacts the confidentiality, integrity and availability, incidents do not
+d) Incident and event means the same thing
+
+Answer: A
+ 
+174. Which of the following is an example of a security incident?
+
+a) System crash
+b) Disk error
+c) User forgetting their password
+d) Denial of service
+
+Answer: D
+ 
+175. An individual gains logical or physical access without permission to a network, system, application, data or other resource. This describes which incident category?
+
+a) Category 1: Unauthorized access
+b) Category 2: Denial of service
+c) Category 4: Improper usage
+d) Category 5: Scans/probes/improper access
+
+Answer: A
+ 
+176. Fallback plans may be invoked in the event of a(n):
+
+a) Emergency
+b) Disaster
+c) Crisis
+d) Incident
+ 
+Answer: B
+
+177. Technical information security incidents may involve:
+
+a) Viruses, malware or denial-of-service (DoS)
+b) System failure, social engineering or viruses
+c) Viruses, denial-of-service or system failure
+d) Malware, system failure or social engineering
+
+Answer: A
+ 
+178. The strategy used by an enterprise to respond to disruption of critical business processes is called a:
+
+a) Business continuity plan (BCP)
+b) Service delivery objective (SDO)
+c) Computer emergency response team (CERT)
+d) Disaster response plan (DRP)
+
+Answer: A
+ 
+179. Incident response includes which of the following activities?
+
+a) Preparation, detection, recovery and post incident activity
+b) Preparation, alignment and response
+c) Preparation, detection, and post incident activity
+d) Preparation, analysis, alignment and post incident activity
+
+Answer: A
+ 
+180. Obtaining and preserving evidence, documenting action and managing public communications are actions associated with:
+
+a) Incident containment
+b) Incident response
+c) Incident eradication
+d) Incident preparation
+
+Answer: A
+ 
+181. Log data overload can be mitigated by employing:
+
+a) Security event management (SEM)
+b) Security response plans
+c) Computer security incident response teams (CSIRT)
+d) Business continuity plans (BCP)
+
+Answer: A
+ 
+182. Incident preparation includes all of the following except:
+
+a) Establish approach to handling incidents
+b) Establish communication plan with stakeholders
+c) Develop incident reporting criteria
+d) Establish chain of custody
+
+Answer: D
+
+183. Post-incident activities typically include which of the following? Select all that apply.
+
+a) Writing an incident report
+b) Proposing improvements
+c) Communicating findings to key stakeholders
+d) Declaring normal operation
+
+Answer: B and C and D
+ 
+184. Assigning ownership and establishing chain of custody are part of which incident response plan activity?
+
+a) Preparation
+b) Identification
+c) Containment
+d) Eradication
+
+Answer: B
+ 
+185. A business impact analysis (BIA) provides the basis for which of the following? Select all that apply.
+
+a) Recovery time objectives
+b) Recovery point objectives
+c) Maximum tolerable outages
+d) Service delivery objectives
+
+Answer: A and B and C and D
+ 
+186. The most important objective of a business continuity plan (BCP) is:
+
+a) Ensuring safety and security of human life
+b) Maintaining operations critical to survival of the organization
+c) Defining evacuation procedures
+d) Outlining a step-by-step explanation of the recovery plan
+
+Answer: A
+ 
+187. The process of restoring data that has been lost, accidentally deleted, corrupted or made inaccessible for any reason is called:
+
+a) Data recovery
+b) Backup
+c) Business continuity
+d) Incident recovery
+
+Answer: A
+ 
+188. In order for a business continuity plan (BCP) to be effective, it must:
+
+a) Be documented on paper
+b) Be aligned with the strategy of the organization
+c) Be tested regularly
+d) Be approved by senior management
+
+Answer: B
+ 
+189. The business impact analysis (BIA) should consider which of the following critical resources? Select all that apply.
+
+a) Potential vulnerabilities
+b) Probability of occurrence of threats
+c) Human, data and infrastructure resources
+d) Efficiency and effectiveness of risk countermeasures
+
+Answer: A and B and C and D 
+ 
+190. In a disaster recovery plan (DRP), the last known point of good data is identified as:
+
+a) Recovery point objective
+b) Recovery time objective
+c) Full backup
+d) Data recovery
+
+Answer: A
+ 
+191. The amount of time allowed for the recovery of a business function or resource after a disaster occurs is called:
+
+a) Recovery point objective
+b) Recovery time objective
+c) Service delivery objective
+d) Maximum tolerable outages
+
+Answer: B
+ 
+192. __________________________is defined as ¡°a model for enabling convenient, on-demand network access to a shared pool of configurable resources (e.g., networks, servers, storage, applications and services) that can be rapidly provisioned and released with minimal management or service provider interaction.¡±
+
+a) Software as a Service (SaaS)
+b) Cloud computing
+c) Big data
+d) Platform as a Service (PaaS)
+
+Answer: B
+ 
+193. Select all that apply. Which of the following statements about advanced persistent threats (APTs) are true?
+
+a) APTs typically originate from sources such as organized crime groups, activists or governments.
+b) APTs use obfuscation techniques that help them remain undiscovered for months or even years.
+c) APTs are often long-term, multi-phase projects with a focus on reconnaissance.
+d) The APT attack cycle begins with target penetration and collection of sensitive information.
+e) Although they are often associated with APTs, intelligence agencies are rarely the perpetrators of APT attacks.
+Correct answer
+
+Answer: A and B and C 
+ 
+194. Which of the following are benefits to BYOD? (more than one)
+
+a) Acceptable Use Policy is easier to implement.
+b) Costs shift to the user.
+c) Worker satisfaction increases.
+d) Security risk is known to the user.
+ 
+Answer: B and C 
+
+195. Choose three. Which types of risk are typically associated with mobile devices?
+
+a) Organizational risk
+b) Compliance risk
+c) Technical risk
+d) Physical risk
+e) Transactional risk
+
+Answer: A and C and D 
+ 
+196. Which three elements of the current threat landscape have provided increased levels of access and connectivity, and, therefore, increased opportunities for cybercrime?
+
+a) Text messaging, Bluetooth technology and SIM cards
+b) Web applications, botnets and primary malware
+c) Financial gains, intellectual property and politics
+d) Cloud computing, social media and mobile computing
+
+Answer: D
+ 
+197. A collection of threats is generally referred to as a(n):
+
+a) Threat environment
+b) Advanced persistent threat (APT)
+c) Cyberwarfare
+d) Hacktivism
+
+Answer: A
+ 
+198. An adversary which leverages sophisticated expertise, significant resources and multiple attack vectors is known as a(n):
+
+a) Advanced persistent threat (APT)
+b) Hacktivist
+c) Cyberwarrior 
+d) Terrorist group
+
+Answer: A
+ 
+199. Most advanced persistent threat (APT) attacks are aimed at:
+
+a) Stealing or manipulating data
+b) Causing physical harm to employees
+c) Causing damage to facilities
+d) Disrupting organizational operations
+
+Answer: A
+ 
+200. When an attacker seeks to gain an initial entry to the enterprise infrastructure through a simple social engineering attack, it is called:
+
+a) Spear phishing
+b) Code injection
+c) Target discovery
+d) Data exfiltration
+
+Answer: A
+ 
+201. The key attributes of an advanced persistent threat (APT) include which of the following? Select all that apply.
+
+a) Well-researched
+b) Stealthy
+c) Sophisticated
+d) Persistent
+
+Answer: A and B and C and D
+ 
+202. At this stage of an attack, the adversary explores networked platforms within reach, maps out the network and harvests user credentials:
+
+a) Command and control
+b) Target discovery
+c) Target penetration
+d) Target research
+
+Answer: B
+ 
+203. Major physical risks of mobile devices include which of the following? Select all that apply.
+
+a) Data breaches
+b) Identity theft
+c) Work disruptions
+d) Data retrieval
+
+Answer: A and B and C
+ 
+204. The lack of formal training for employees on the use of mobile devices is considered a(n):
+
+a) Organizational risk
+b) Physical risk
+c) Technical risk
+d) Informational risk
+
+Answer: A
+ 
+205. Physical risk involving mobile devices can be mitigated through the use of which of the following? Select all that apply.
+
+a) Cell-based tracking and locating the device
+b) Remote shutdown/wipe capabilities
+c) Remote SIM card lock capabilities
+d) Employee training programs
+
+Answer: A and B and C
+ 
+206. Messaging, audio and Bluetooth are all examples of:
+
+a) Physical risk
+b) Technical risk
+c) Informational risk
+d) Organizational risk
+ 
+Answer: B
+
+207. Proxy level and presentation level are common attacks to:
+
+a) Web view applications
+b) Outdated hardware
+c) Static data
+d) History files
+
+Answer: A
+ 
+208. A fake web site presented through a mobile view is known as a(n):
+
+a) Presentation level attack
+b) Proxy level attack
+c) Code injection
+d) Script kiddie
+
+Answer: A
+ 
+209. Major benefits of cloud computing include which of the following? Select all that apply.
+
+a) Scalability
+b) Cost-effectiveness
+c) Data protection
+d) Timeliness of updates
+
+Answer: A and C and D
+ 
+210. Major risks of cloud computing include which of the following? Select all that apply.
+
+a) Lack of scalability
+b) Difficult to protect data
+c) Provider non-compliance with requirements
+d) Loss of governance
+
+Answer: B and C and D
+ 
+211. When vetting or auditing a cloud provider, organizations should assess the provider's:
+
+a) Facilities, networks, hardware and operating systems
+b) Facilities, networks, hardware and financial documents
+c) Human resources, financial documents, hardware and operating systems
+d) Networks, operating systems, human resources and references
+
+Answer: B
+
+
+ 
