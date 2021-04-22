@@ -21,6 +21,6 @@ The Learning Objects iniclude:
 9. Security control & Cybersecurity Best Practices
 10. Audit Process
 
-![CyberRookie Project Overview](CyberRookie Project Overview V2.0.jpg)
+![CyberRookie Project Overview](https://github.com/trevor-shi/CyberRookie-Project/blob/master/CyberRookie%20Project%20Overview%20V2.0.png)
 
 We welcome new friends to learn cybersecurity together!
