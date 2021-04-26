@@ -10,6 +10,7 @@ Our goals are to help people with limited IT/Cyber background into IT/Cyber fiel
 1. Learning cyber skills from a free online resource and open-source security software
 2. Learning cyber skills from cybersecurity best practices
 3. Learning cyber skills by building a home-Lab
+4. Finding entry-level cybersecurity jobs
 
 **Learning Objects**
 The Learning Objects include:
