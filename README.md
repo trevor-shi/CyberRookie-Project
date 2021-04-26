@@ -27,6 +27,6 @@ The Learning Objects iniclude:
 **Project Overview**
 ![CyberRookie Project Overview](https://github.com/trevor-shi/CyberRookie-Project/blob/master/CyberRookie%20Project%20Overview%20V2.0.png)
 
-** The course presentation is in https://github.com/trevor-shi/CyberRookie-Project/tree/master/CyberRookie%20Project**
+** The course presentation is in https://github.com/trevor-shi/CyberRookie-Project/tree/master/CyberRookie%20Project **
 
 **We welcome new friends to learn cybersecurity together!**
